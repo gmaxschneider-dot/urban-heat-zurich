@@ -1,0 +1,21 @@
+name: urban-heat
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - rasterio
+  - rioxarray
+  - xarray
+  - geopandas
+  - rasterstats
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - contextily
+  - scipy
+  - pip
+  - pip:
+    - pymannkendall
