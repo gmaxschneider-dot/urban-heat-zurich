@@ -1,22 +1,11 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyc
-.env
-.venv/
-*.egg-info/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Projektdaten (grosse Dateien – nicht auf Git)
+# Project specifix: Dont track big datasets
 data/raw/
 data/vector/
 data/processed/
 
-# MacOS
-.DS_Store
+# Jupyter Checkpoints
+.ipynb_checkpoints/
 
-# IDE
-.vscode/
-.idea/
+# Python Cache
+__pycache__/
+*.pyc
