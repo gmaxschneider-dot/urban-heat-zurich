@@ -11,7 +11,7 @@ systematically higher warming rates?
 
 ## Data Sources
 - Landsat LST/NDVI time series: [Google Drive](https://drive.google.com/drive/folders/1SmEzlCAJJGYY-TdB58JX6ADvVxSQrMqj)
-- Quartier-Shapefiles: [Stadt Zürich Open Data](https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_GSZ___GB_Park__und_Gruenanlagen?format=10005)
+- Statistische Quartiere-Shapefiles: [Stadt Zürich Open Data](https://data.stadt-zuerich.ch/dataset/geo_statistische_quartiere)
 
 ## Setup
 1. Clone this repository
